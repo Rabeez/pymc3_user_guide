@@ -1,7 +1,7 @@
 PyMC3 User Guide
 ================
 
-_This is meant to be a learning exercise for myself, not an exhaustive showcase of features of [PyMC3](https://github.com/pymc-devs/pymc3)._ 
+_This is meant to be a learning exercise for myself, not an exhaustive showcase of features of [PyMC3](https://github.com/pymc-devs/pymc3). Head over to their [example gallery](https://docs.pymc.io/nb_examples/index.html) for something closer to that._ 
 
 While my naming is obviously inspired by the fantastic [Stan User Guide](https://mc-stan.org/docs/2_25/stan-users-guide/index.html), my goal for this repo is only to be a sort of reference manual for techniques and models which I commonly use. This is why I will be comparing models aginst scikit-learn (where applicable) since that's the tool I am most familiar with right now. 
 
